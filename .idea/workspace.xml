@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5067f0b0-7711-435f-9e6e-fb850a971519" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/商业计划书.md" afterPath="$PROJECT_DIR$/商业计划书.md" />
     </list>
     <ignored path="UniteCredit-doc.iws" />
@@ -34,8 +33,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6726297" vertical-offset="3364" max-vertical-offset="7990">
-              <caret line="220" column="26" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.84794277" vertical-offset="3606" max-vertical-offset="8245">
+              <caret line="240" column="4" selection-start-line="240" selection-start-column="4" selection-end-line="240" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -249,8 +248,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6726297" vertical-offset="3364" max-vertical-offset="7990">
-          <caret line="220" column="26" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.84794277" vertical-offset="3606" max-vertical-offset="8245">
+          <caret line="240" column="4" selection-start-line="240" selection-start-column="4" selection-end-line="240" selection-end-column="4" />
           <folding />
         </state>
       </provider>
